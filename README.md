@@ -21,13 +21,16 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 - Build out the project to the designs provided
 
 ### Screenshot
-
-![Design](https://raw.github.com/rilindtasholli/profile-card-component/main/design/desktop-design.jpg)
-![Solution](https://raw.github.com/rilindtasholli/profile-card-component/main/screenshot.png)
+- Design
+![](https://raw.github.com/rilindtasholli/profile-card-component/main/design/desktop-design.jpg)
+- Solution
+![](https://raw.github.com/rilindtasholli/profile-card-component/main/solution-screenshot.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Live Site URL: [Open Live Site](https://rilindtasholli.github.io/profile-card-component)
+- Solution URL: [Open Solution](https://www.frontendmentor.io/solutions/profile-card-component-solution-using-simple-html-and-css-_OZZjYIAM)
+
 
 ## My process
 
