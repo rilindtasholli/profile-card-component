@@ -21,9 +21,10 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 - Build out the project to the designs provided
 
 ### Screenshot
-
-![Design](https://raw.github.com/rilindtasholli/profile-card-component/main/design/desktop-design.jpg)
-![Solution](https://raw.github.com/rilindtasholli/profile-card-component/main/screenshot.png)
+- Desgin
+![](https://raw.github.com/rilindtasholli/profile-card-component/main/design/desktop-design.jpg)
+- Solution
+![](https://raw.github.com/rilindtasholli/profile-card-component/main/solution-screenshot.png)
 
 ### Links
 
